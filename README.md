@@ -6,10 +6,9 @@ Currently Awaiting graduation with a Computer Science degree from The Catholic U
 
 ## Technologies I Use
 
-* **Languages:** Java, Python, R
-* **Frameworks & Libraries:** Flask
-* **Databases:** MySQL, SQL
-* **Tools & Environment:** Git
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,r,flask,mysql,git" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -20,10 +19,11 @@ Currently Awaiting graduation with a Computer Science degree from The Catholic U
 
 ---
 
-## GitHub Achievements
+## GitHub Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshfordKipleting1960&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ashford's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshfordKipleting1960&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshfordKipleting1960&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
