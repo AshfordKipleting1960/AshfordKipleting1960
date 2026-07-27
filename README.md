@@ -7,9 +7,14 @@ A Computer Science student at The Catholic University of Eastern Africa (CUEA) w
 
 ###  Currently Working On
 
-<a href="https://github.com/AshfordKipleting1960/Job-market-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=AshfordKipleting1960&repo=Job-market-analytics&theme=radical" alt="Job Market Analytics Card" />
-</a>
+[Job Market Analytics](https://github.com/AshfordKipleting1960/Job-market-analytics)**  
+  A data analytics project analyzing job market trends, skill demand, experience requirements, and hiring patterns.
+
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  </p>
 
 ---
 
