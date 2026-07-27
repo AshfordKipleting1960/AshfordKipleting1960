@@ -4,27 +4,33 @@ A Computer Science student at The Catholic University of Eastern Africa (CUEA) w
 
 ---
 
-## Technologies I Use
+Backend Technologies
 
-* **Languages:** Java, Python, R
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,r" alt="Languages" />
-  </p>
+Python • Flask • Java • R
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,java,r" alt="Backend Technologies" />
+</p>
 
-* **Frameworks & Libraries:** Flask
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Frameworks" />
-  </p>
+ Databases & Storage
 
-* **Databases:** MySQL, SQL
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-  </p>
+MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+</p>
 
-* **Tools & Environment:** Git
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git" alt="Tools" />
-  </p>
+Frontend Technologies
+
+JavaScript • HTML/CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="Frontend Technologies" />
+</p>
+
+ Tools & Environment
+
+Git • VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools" />
+</p>
 
 ---
 
