@@ -4,7 +4,7 @@ A Computer Science student at The Catholic University of Eastern Africa (CUEA) w
 
 ---
 
-### *Backend Technologies
+### Backend Technologies
 
 Python • Flask • Java • R
 <p align="left">
