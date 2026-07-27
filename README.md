@@ -4,6 +4,12 @@ A Computer Science student at The Catholic University of Eastern Africa (CUEA) w
 
 ---
 
+###  Currently Working On
+
+[Job Market Analytics](https://github.com/AshfordKipleting1960/Job-market-analytics)** - A data analytics project analyzing job market trends, skill demand, experience requirements, and hiring patterns using Python, SQL, and Power BI.
+
+---
+
 ### Backend Technologies
 
 Python • Flask • Java • R
