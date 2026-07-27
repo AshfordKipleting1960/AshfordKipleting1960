@@ -8,7 +8,7 @@ A Computer Science student at The Catholic University of Eastern Africa (CUEA) w
 ###  Currently Working On
 
 <a href="https://github.com/AshfordKipleting1960/Job-market-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshfordKipleting1960&repo=Job-market-analytics&theme=radical" alt="Job Market Analytics Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=AshfordKipleting1960&repo=Job-market-analytics&theme=radical" alt="Job Market Analytics Card" />
 </a>
 
 ---
