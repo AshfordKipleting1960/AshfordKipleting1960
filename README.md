@@ -1,14 +1,30 @@
 # Hi, I'm Ashford
 
-Currently Awaiting graduation with a Computer Science degree from The Catholic University of Eastern Africa (CUEA). I enjoy working with Java, Python, and R, with a strong focus on data-driven applications and analytics. Currently open to internships, projects, and collaborations.
+A Computer Science student at The Catholic University of Eastern Africa (CUEA) who enjoys working with Java, Python, and R, with a strong focus on data-driven applications and analytics. Currently open to internships, projects, and collaborations.
 
 ---
 
 ## Technologies I Use
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,r,flask,mysql,git" alt="Tech Stack" />
-</p>
+* **Languages:** Java, Python, R
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=java,python,r" alt="Languages" />
+  </p>
+
+* **Frameworks & Libraries:** Flask
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Frameworks" />
+  </p>
+
+* **Databases:** MySQL, SQL
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+  </p>
+
+* **Tools & Environment:** Git
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git" alt="Tools" />
+  </p>
 
 ---
 
