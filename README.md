@@ -1,6 +1,6 @@
 # Hi, I'm Ashford
 
-A Computer Science student at The Catholic University of Eastern Africa (CUEA) who enjoys working with Java, Python, and R, with a strong focus on data-driven applications and analytics. Currently open to internships, projects, and collaborations.
+A Computer Science student at The Catholic University of Eastern Africa (CUEA) who enjoys working with Python, and R, with a strong focus on data-driven applications and analytics. Currently open to internships, projects, and collaborations.
 
 ---
 
