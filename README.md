@@ -66,4 +66,4 @@ Git • VS Code
 
 ### Let's Connect
 
-* **Email:** [ashfordkipleting810@gmail.com](mailto:ashfordkipleting810@gmail.com)
+ **Email:** [ashfordkipleting810@gmail.com](mailto:ashfordkipleting810@gmail.com)
