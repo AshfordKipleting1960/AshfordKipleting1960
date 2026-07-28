@@ -20,9 +20,9 @@ A Computer Science student at The Catholic University of Eastern Africa (CUEA) w
 
 ### Backend Technologies
 
-Python • Flask • Java • R
+Python • Flask • R
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,java,r" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,flask,r" alt="Backend Technologies" />
 </p>
 
 ###  Databases & Storage
